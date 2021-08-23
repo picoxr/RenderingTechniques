@@ -10,23 +10,23 @@
 
 Demonstrate how cascade shadow works on Pico platform. Allows configuring parameters including 
 
-<img src="./ReadMeScreenshot/1-1.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-1.jpeg"  width = "600"/>
 
 - Text Rendering
 
 Demonstrate different texture setups (aniso, aniso bias, mipmap, trilinear) work for text pictures on Pico platoform. And compare how stereo layer display text pictures versus non-stereolayer.
 
-<img src="./ReadMeScreenshot/1-2.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-2.jpeg"  width = "600"/>
 
-<img src="./ReadMeScreenshot/1-3.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-3.jpeg"  width = "600"/>
 
 - Color Grade Map
 
-<img src="./ReadMeScreenshot/1-4.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-4.jpeg"  width = "600"/>
 
-<img src="./ReadMeScreenshot/1-5.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-5.jpeg"  width = "600"/>
 
-<img src="./ReadMeScreenshot/1-6.png"  width = "600"/>
+<img src="./ReadMeScreenshot/1-6.jpeg"  width = "600"/>
 
 Demonstrate how different color grade maps work on Pico devices.
 
