@@ -31,6 +31,6 @@ Demonstrate different texture setups (aniso, aniso bias, mipmap, trilinear) work
 Demonstrate how different color grade maps work on Pico devices.
 
 ## Note:
-- This demo requires UE 4.26.2. To build on other versions. Please delete "Plugins" folder and download corresponding SDK file from [**Pico Dev Console
-**](https://developer.pico-interactive.com/sdk)
+- This demo requires UE 4.26.2. To build on other versions. Please delete "Plugins" folder and download corresponding SDK file from [Pico Dev Console
+](https://developer.pico-interactive.com/sdk)
 - If you have any questions/comments, please raise requests at [**PicoDevSupport Portal**](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?
