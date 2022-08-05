@@ -1,8 +1,9 @@
 ## Rendering Techniques
 
-## Unity Versions：
-- Unreal 4.26.2
-- Pico Unreal SDK 1.2.6
+## Unreal Engine 4 & SDK Version
+- Unreal Engine : 4.27.2
+
+- Pico Unreal Integration SDK v2.0.5
 
 ## Description：
 
@@ -31,6 +32,6 @@ Demonstrate different texture setups (aniso, aniso bias, mipmap, trilinear) work
 Demonstrate how different color grade maps work on Pico devices.
 
 ## Note:
-- This demo requires UE 4.26.2. To build on other versions. Please delete "Plugins" folder and download corresponding SDK file from [Pico Dev Console
-](https://developer.pico-interactive.com/sdk)
+- This demo requires UE 4.27.2. To build on other versions. Please delete "Plugins" folder and download corresponding SDK file from [Pico Dev Console
+](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)
 - If you have any questions/comments, please raise requests at [**PicoDevSupport Portal**](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?
