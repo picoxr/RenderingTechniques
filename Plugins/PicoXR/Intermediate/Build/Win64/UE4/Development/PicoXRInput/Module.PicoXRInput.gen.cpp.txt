@@ -1,7 +1,0 @@
-C:\UE4\RenderingTechniques-main\Plugins\PicoXR\Intermediate\Build\Win64\UE4\Development\PicoXRInput\Definitions.PicoXRInput.h
-C:/UE4/RenderingTechniques-main/Plugins/PicoXR/Intermediate/Build/Win64/UE4/Inc/PicoXRInput/PicoXRInput.init.gen.cpp
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:/UE4/RenderingTechniques-main/Plugins/PicoXR/Intermediate/Build/Win64/UE4/Inc/PicoXRInput/PXR_InputFunctionLibrary.gen.cpp
-C:\UE4\RenderingTechniques-main\Plugins\PicoXR\Source\PicoXRInput/Public/PXR_InputFunctionLibrary.h
-C:\UE4\RenderingTechniques-main\Plugins\PicoXR\Intermediate\Build\Win64\UE4\Inc\PicoXRInput\PXR_InputFunctionLibrary.generated.h
